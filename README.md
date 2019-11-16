@@ -1,4 +1,4 @@
-# Arduibo-clock-with-RTC-DS1307-and-SSD1306
+# Arduino-clock-with-RTC-DS1307-and-SSD1306
 
 It can be seen in function with Arduino Nano board at: https://www.youtube.com/watch?v=CJZNfxWEb7A
 
